@@ -103,6 +103,8 @@ In addition to the official devkitPro software packages, we have our own package
 
 The process of setting up Fling is documented on its [GitLab repository page](https://gitlab.com/QuarkTheAwesome/wiiu-fling/blob/master/README.md#wiiu-fling).
 
+(Note: Fling server is not available now, but you can still install wut because now is part of DevKitPro)
+
 ### Step 5: Installing wut
 With Fling installed, installing wut is very easy.
 
@@ -115,7 +117,7 @@ $ sudo dkp-pacman -S wut-linux
 For Windows/msys2 users:
 
 ```
-$ pacman -S wut-msys2
+$ pacman -S wut
 ```
 
 And for macOS users:
